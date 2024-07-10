@@ -1,0 +1,29 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}CoreWar}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Retour sur le jeu}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}GamePlay}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Les principes fondamentales}{2}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}RedCode}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Structure d'une Opération}{3}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}Les différentes versions}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Analyse et Planification du projet}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Les objectifs de conception}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}L'architecture du projet}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Répartition des tâches}{7}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Conception du logiciel}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Le choix du pattern}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Le modèle du jeu}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Le contrôle du jeu}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Interface Graphique}{10}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}La génétique}{11}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Points techniques}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Lecture et Interprétation des fichiers}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Logique de l'Interpréteur du MARS}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Algorithm Génétique: Les principes de bases}{15}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Expérimentations sur l'algorithm Génétique}{17}{section.6}%
+\contentsline {section}{\numberline {7}État d'avancement du projet}{20}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Un point sur les objectifs}{20}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Les difficultés rencontrés}{21}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Les améliorations possibles}{21}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Conclusion}{22}{section.8}%
